@@ -15,3 +15,8 @@ struct mahasiswa
     int umur;
 };
 
+int main ()
+{
+    //Deklarasi variabel struct
+    mahasiswa mhs;
+    
